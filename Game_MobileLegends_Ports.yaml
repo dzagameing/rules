@@ -1,5 +1,6 @@
 payload:
   # > TCP PORTS
+  - DST-PORT,30071
   - DST-PORT,5000
   - DST-PORT,5001
   - DST-PORT,5002
@@ -932,6 +933,7 @@ payload:
   - DST-PORT,30300
 
   # > UDP PORTS
+  - UDP-PORT,6789
   - DST-PORT,2702
   - DST-PORT,3702
   - DST-PORT,4001
