@@ -1,5 +1,4 @@
 payload:
-  # > TCP PORTS
   - DST-PORT,30071
   - DST-PORT,5000
   - DST-PORT,5001
